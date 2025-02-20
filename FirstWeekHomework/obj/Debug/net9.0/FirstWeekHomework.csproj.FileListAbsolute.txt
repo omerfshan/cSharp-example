@@ -1,0 +1,15 @@
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.sourcelink.json
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/bin/Debug/net9.0/FirstWeekHomework
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/bin/Debug/net9.0/FirstWeekHomework.deps.json
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/bin/Debug/net9.0/FirstWeekHomework.runtimeconfig.json
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/bin/Debug/net9.0/FirstWeekHomework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/bin/Debug/net9.0/FirstWeekHomework.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/refint/FirstWeekHomework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/FirstWeekHomework.genruntimeconfig.cache
+/Users/omerfaruksahan/projects/cSharpExamle/FirstWeekHomework/obj/Debug/net9.0/ref/FirstWeekHomework.dll
