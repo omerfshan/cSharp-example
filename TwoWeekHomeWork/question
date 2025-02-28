@@ -1,0 +1,14 @@
+Metot (Fonksiyon) Nedir?
+Metot, belirli bir görevi yerine getiren ve tekrar tekrar kullanılabilen kod bloklarıdır.
+
+Metotları Neden Kullanırız?
+
+Kod tekrarını önler.
+Kodun okunabilirliğini artırır.
+Bakımı ve hata ayıklamayı kolaylaştırır.
+Geriye Değer Döndüren Metot ile Void Metot Arasındaki Fark
+
+Geriye değer döndüren metot (return kullanır), bir işlem yaparak sonuç döndürür. Örneğin, int Topla(int a, int b) { return a + b; }
+Void metot, bir işlem yapar ama değer döndürmez. Örneğin, void Yazdir(string mesaj) { Console.WriteLine(mesaj); }
+Metotların Parametreleri Nasıl Çalışır?
+Metotlara dışarıdan değer aktarılır. Parametreler değer (by value) veya referans (by reference) olarak iletilir. Değer olarak aktarılan değişkenler kopyalanır, referans olarak aktarılanlar orijinal değişkeni değiştirir.
