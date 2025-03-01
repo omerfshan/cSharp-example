@@ -10,7 +10,7 @@ class FilterNumbers
 
         Console.WriteLine("Orijinal liste: " + string.Join(", ", sayilar));
 
-        // 10’dan küçük olanları kaldırma
+       
         sayilar.RemoveAll(sayi => sayi < 10);
 
         Console.WriteLine("Filtrelenmiş liste (10 ve üzeri sayılar): " + string.Join(", ", sayilar));
