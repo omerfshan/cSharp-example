@@ -1,0 +1,15 @@
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.sourcelink.json
+/Users/omerfaruksahan/projects/cSharpExamle/homework/bin/Debug/net9.0/homework
+/Users/omerfaruksahan/projects/cSharpExamle/homework/bin/Debug/net9.0/homework.deps.json
+/Users/omerfaruksahan/projects/cSharpExamle/homework/bin/Debug/net9.0/homework.runtimeconfig.json
+/Users/omerfaruksahan/projects/cSharpExamle/homework/bin/Debug/net9.0/homework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/homework/bin/Debug/net9.0/homework.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/refint/homework.dll
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/homework.genruntimeconfig.cache
+/Users/omerfaruksahan/projects/cSharpExamle/homework/obj/Debug/net9.0/ref/homework.dll
