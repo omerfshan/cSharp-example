@@ -1,0 +1,30 @@
+Kalıtım:
+Abstract class tan sadece bir tane miras alınabilir.
+Interface ise birden fazla implemente edilebilir.
+Metod Gövdeleri:
+Abstract class içerisinde hem gövdeli hem de gövdesiz metodlar olabilir.
+Interface içerisinde ise sadece metod imzaları bulunur (Csharp 8 sonrası varsayılan metodlar eklenebilir).
+Erişim Belirleyiciler:
+Abstract class içinde public, protected ve private gibi erişim belirleyiciler kullanılabilir.
+Interface içindeki tüm metodlar varsayılan olarak public erişime sahiptir ve erişim belirleyici yazılmaz.
+Constructor:
+Abstract class constructor (yapıcı metod) içerebilir.
+Interface ise constructor içermez.
+Field (Alan) Tanımlama:
+Abstract class içerisinde field (değişken) tanımlanabilir.
+Interface içinde field tanımlanamaz, yalnızca property tanımlanabilir.
+Örnek Kullanım:
+Abstract class, ortak özellikleri olan sınıfların türetilmesi için kullanılır.
+Interface, farklı sınıflara ortak yetenek kazandırmak amacıyla kullanılır.
+
+
+Abstract Class Nedir?
+Abstract class, soyut bir sınıftır ve nesne oluşturulamaz.
+İçinde hem tamamlanmış (concrete) hem de tamamlanmamış (abstract) metodlar bulunabilir.
+Virtual ve abstract metodları override edilebilir.
+Kalıtım (inheritance) yoluyla başka sınıflara temel (base) olarak kullanılır.
+
+Interface Nedir?
+Interface, tamamen bir sözleşmedir (contract).
+İçinde sadece metod imzaları (signature) ve property tanımları bulunur.
+Bir sınıf birden fazla interface implemente edebilir (çoklu kalıtım destekler).

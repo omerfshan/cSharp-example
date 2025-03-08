@@ -1,5 +1,0 @@
-/Users/omerfaruksahan/projects/cSharpExamle/obj/Debug/net9.0/cSharpExamle.GeneratedMSBuildEditorConfig.editorconfig
-/Users/omerfaruksahan/projects/cSharpExamle/obj/Debug/net9.0/cSharpExamle.AssemblyInfoInputs.cache
-/Users/omerfaruksahan/projects/cSharpExamle/obj/Debug/net9.0/cSharpExamle.AssemblyInfo.cs
-/Users/omerfaruksahan/projects/cSharpExamle/obj/Debug/net9.0/cSharpExamle.csproj.CoreCompileInputs.cache
-/Users/omerfaruksahan/projects/cSharpExamle/obj/Debug/net9.0/cSharpExamle.sourcelink.json
