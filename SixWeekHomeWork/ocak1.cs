@@ -1,8 +1,8 @@
-using System;  // Gerekli kütüphane
+using System;  
 
 class ocak1{
 
-    public static void Main(string[] args)
+    public static void Ocak1Main(string[] args)
     {
         
     
