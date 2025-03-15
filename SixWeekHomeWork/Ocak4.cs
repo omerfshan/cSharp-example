@@ -3,7 +3,7 @@
 For Döngüsü: Belirli bir başlangıç, bitiş ve artış miktarı olduğu durumlarda kullanılır. Genellikle belirli bir sayıda tekrarlanması gereken işlemler için tercih edilir.
 While Döngüsü: Koşul sağlandığı sürece çalışmaya devam eder. Genellikle tekrar sayısının baştan bilinmediği veya belirli bir koşul sağlanana kadar devam etmesi gereken işlemler için kullanılır.*/
 class Ocak4{
-    public static void Main(string[] args)
+    public static void ocak4(string[] args)
     {
         for (int i = 1; i <= 10; i++)
         {
