@@ -1,8 +1,8 @@
 using System;  
 
-class Program
+class Ocak2
 {
-    static void Main()
+    static void Ocak2Main()
     {
         /*
          * C#’ta Kullanılan Temel Veri Tipleri:
