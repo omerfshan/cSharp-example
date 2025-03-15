@@ -1,8 +1,8 @@
 using System;
 
-class Program
+class Ocak3
 {
-    static void Ocak3()
+    static void Ocak3main()
     {
         Console.Write("Bir sayı giriniz: ");
         int sayi = int.Parse(Console.ReadLine());
