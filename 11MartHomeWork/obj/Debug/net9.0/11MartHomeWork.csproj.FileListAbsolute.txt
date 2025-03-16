@@ -1,0 +1,15 @@
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/bin/Debug/net9.0/11MartHomeWork
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/bin/Debug/net9.0/11MartHomeWork.deps.json
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/bin/Debug/net9.0/11MartHomeWork.runtimeconfig.json
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/bin/Debug/net9.0/11MartHomeWork.dll
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/bin/Debug/net9.0/11MartHomeWork.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.sourcelink.json
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.dll
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/refint/11MartHomeWork.dll
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.pdb
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/11MartHomeWork.genruntimeconfig.cache
+/Users/omerfaruksahan/projects/cSharpExamle/11MartHomeWork/obj/Debug/net9.0/ref/11MartHomeWork.dll

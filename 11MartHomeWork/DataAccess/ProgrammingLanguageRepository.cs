@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
+using ProgrammingLanguagesManagement.Core;
 using ProgrammingLanguagesManagement.Entities;
 
 namespace ProgrammingLanguagesManagement.DataAccess;
 
-public class ProgrammingLanguageRepository : Irepository<ProgrammingLanguage>
+public class ProgrammingLanguageRepository : BaseRepository<ProgrammingLanguage>
 {
     private List<ProgrammingLanguage> programmingLanguages=new List<ProgrammingLanguage>();
 
