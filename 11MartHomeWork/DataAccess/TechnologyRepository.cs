@@ -2,9 +2,10 @@ using System.Collections.Generic;
 using System.Linq;
 namespace ProgrammingLanguagesManagement.Entities;
 
+using ProgrammingLanguagesManagement.Core;
 using ProgrammingLanguagesManagement.DataAccess;
 
-public class TechnologyRepository : Irepository<Technology>
+public class TechnologyRepository :BaseRepository<Technology>
 {
     private List<Technology> technologies = new List<Technology>();
     public void Add(Technology entity)
