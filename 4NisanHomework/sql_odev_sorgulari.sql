@@ -1,4 +1,4 @@
-SQL Komutları Araştırma Ödevi
+-- SQL Komutları Araştırma Ödevi
 -- A) ALTER TABLE Kullanımı
 -- Bir tabloya yeni sütun nasıl eklenir? Bir tabloya yeni bir sütun eklemek için ALTER TABLE komutu kullanılır. Bu işlem, mevcut tabloya yeni bir bilgi eklememizi sağlar.
 ALTER TABLE kitaplar ADD yayinevi VARCHAR(100);
