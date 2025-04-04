@@ -5,16 +5,16 @@ ALTER TABLE kitaplar ADD yayinevi VARCHAR(100);
 -- Bir sütun nasıl değiştirilir? Bir sütunun veri tipi veya diğer özellikleri değiştirilebilir.
 ALTER TABLE kitaplar MODIFY yayinevi TEXT;
 -- B) UPDATE, DELETE Kullanımı
-UPDATE komutu kullanımı: Bu komut, tabloda var olan kayıtları güncellemek için kullanılır.
+-- UPDATE komutu kullanımı: Bu komut, tabloda var olan kayıtları güncellemek için kullanılır.
 UPDATE kitaplar SET fiyat = 50 WHERE id = 1;
-DELETE komutu kullanımı: Belirli bir koşulu sağlayan kayıtları silmek için kullanılır.
+-- DELETE komutu kullanımı: Belirli bir koşulu sağlayan kayıtları silmek için kullanılır.
 DELETE FROM kitaplar WHERE id = 1;
 -- C) INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN Farkları
-JOIN işlemleri, birden fazla tabloyu ilişkilendirmek için kullanılır. Farklı türleri şunlardır:
-INNER JOIN: İki tabloda da eşleşen kayıtları getirir.
-LEFT JOIN: Sol tablodaki tüm kayıtları ve sağ tablodaki eşleşenleri getirir.
-RIGHT JOIN: Sağ tablodaki tüm kayıtları ve sol tablodaki eşleşenleri getirir.
-FULL JOIN: Her iki tablodaki tüm kayıtları döndürür.
+-- JOIN işlemleri, birden fazla tabloyu ilişkilendirmek için kullanılır. Farklı türleri şunlardır:
+-- INNER JOIN: İki tabloda da eşleşen kayıtları getirir.
+-- LEFT JOIN: Sol tablodaki tüm kayıtları ve sağ tablodaki eşleşenleri getirir.
+-- RIGHT JOIN: Sağ tablodaki tüm kayıtları ve sol tablodaki eşleşenleri getirir.
+-- FULL JOIN: Her iki tablodaki tüm kayıtları döndürür.
 -- INNER JOIN (Eşleşen kayıtları getirir)
 SELECT * FROM kitaplar INNER JOIN yazarlar ON kitaplar.yazar_id = yazarlar.id;
 
@@ -27,7 +27,7 @@ SELECT * FROM kitaplar RIGHT JOIN yazarlar ON kitaplar.yazar_id = yazarlar.id;
 -- FULL JOIN (Her iki tablodaki tüm kayıtları getirir)
 SELECT * FROM kitaplar FULL JOIN yazarlar ON kitaplar.yazar_id = yazarlar.id;
 -- D) HAVING ve GROUP BY Birlikte Kullanımı
-GROUP BY, verileri belirli bir sütuna göre gruplamak için kullanılır. HAVING, gruplandırılmış sonuçlar üzerinde koşul eklemeye yarar.
+-- GROUP BY, verileri belirli bir sütuna göre gruplamak için kullanılır. HAVING, gruplandırılmış sonuçlar üzerinde koşul eklemeye yarar.
 SELECT yazar_id, COUNT(*) AS kitap_sayisi FROM kitaplar 
 GROUP BY yazar_id HAVING COUNT(*) > 5;
 -- E) TOP, OFFSET-FETCH Kullanarak Sıralı Veri Çekme
